@@ -1,0 +1,8 @@
+mu: 52.5
+mu_lb: 45
+mu_ub: 60
+n: 100
+seed: 100
+sigma: 13.5
+sigma_lb: 5
+sigma_ub: 20
