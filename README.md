@@ -1,6 +1,6 @@
 # model-calibration-evaluation
 
-Evaluating model calibration methods for sensitivity analysis, uncertainty analysis, optimisation
+ Evaluating model calibration methods for sensitivity analysis, uncertainty analysis, optimisation, and Bayesian inference 
 
 See [config.yaml](config.yaml) for the ground-truth simulation parameters.
 
