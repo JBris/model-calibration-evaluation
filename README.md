@@ -8,6 +8,7 @@ The following model calibration methods have been evaluated.
 
 * [Approximate Bayesian Computation - Sequential Monte Carlo](https://github.com/JBris/model-calibration-evaluation/tree/main/pipelines/abc_smc/run.py)
 * [Bayesian Optimisation](https://github.com/JBris/model-calibration-evaluation/tree/main/pipelines/bayes_opt/run.py)
+* [Bayesian Optimisation for Likelihood-Free Inference](https://github.com/JBris/model-calibration-evaluation/tree/main/pipelines/bolfi/run.py)
 * [Differential Evolution Adaptive Metropolis](https://github.com/JBris/model-calibration-evaluation/tree/main/pipelines/dream/run.py)
 * [Tree-structured Parzen Estimator](https://github.com/JBris/model-calibration-evaluation/tree/main/pipelines/optimisation/run.py)
 * [Polynomial Chaos Expansion](https://github.com/JBris/model-calibration-evaluation/tree/main/pipelines/poly_chaos/run.py)
