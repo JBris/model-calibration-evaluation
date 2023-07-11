@@ -14,5 +14,6 @@ The following model calibration methods have been evaluated.
 * [Polynomial Chaos Expansion](https://github.com/JBris/model-calibration-evaluation/tree/main/pipelines/poly_chaos/run.py)
 * [Polynomial Chaos Kriging](https://github.com/JBris/model-calibration-evaluation/tree/main/pipelines/poly_chaos_kriging/run.py)
 * [Shuffled Complex Evolution Algorithm Uncertainty Analysis](https://github.com/JBris/model-calibration-evaluation/tree/main/pipelines/sceua/run.py)
+* [Sequential Neural Posterior Estimation](https://github.com/JBris/model-calibration-evaluation/tree/main/pipelines/snpe/run.py)
 * [Sobol Sensitivity Analysis](https://github.com/JBris/model-calibration-evaluation/tree/main/pipelines/sobol_sa/run.py)
   
