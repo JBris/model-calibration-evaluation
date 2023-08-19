@@ -10,6 +10,7 @@ The following model calibration methods have been evaluated.
 * [Bayesian Optimisation](https://github.com/JBris/model-calibration-evaluation/tree/main/pipelines/bayes_opt/run.py)
 * [Bayesian Optimisation for Likelihood-Free Inference](https://github.com/JBris/model-calibration-evaluation/tree/main/pipelines/bolfi/run.py)
 * [Differential Evolution Adaptive Metropolis](https://github.com/JBris/model-calibration-evaluation/tree/main/pipelines/dream/run.py)
+* [Experimental Design via Gaussian Process Emulation](https://github.com/JBris/model-calibration-evaluation/tree/main/pipelines/experimental_design/run.py)
 * [Tree-structured Parzen Estimator](https://github.com/JBris/model-calibration-evaluation/tree/main/pipelines/optimisation/run.py)
 * [Polynomial Chaos Expansion](https://github.com/JBris/model-calibration-evaluation/tree/main/pipelines/poly_chaos/run.py)
 * [Polynomial Chaos Kriging](https://github.com/JBris/model-calibration-evaluation/tree/main/pipelines/poly_chaos_kriging/run.py)

@@ -27,6 +27,7 @@ dill==0.3.6
 distributed==2023.7.0
 elfi==0.8.6
 emcee==3.1.4
+emukit==0.4.10
 entrypoints==0.4
 etuples==0.3.9
 executing==1.2.0
