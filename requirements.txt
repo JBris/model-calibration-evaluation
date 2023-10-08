@@ -145,7 +145,7 @@ scipy==1.11.1
 seaborn==0.12.2
 setuptools==67.8.0
 six==1.16.0
-smt==2.0
+smt==2.0.1
 sortedcontainers==2.4.0
 spotpy==1.6.2
 SQLAlchemy==2.0.18
