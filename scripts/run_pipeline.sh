@@ -1,0 +1,1 @@
+python -m pipelines.${1}.run
