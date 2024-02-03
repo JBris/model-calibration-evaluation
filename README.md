@@ -18,4 +18,4 @@ The following model calibration methods have been evaluated.
 * [Shuffled Complex Evolution Algorithm Uncertainty Analysis](https://github.com/JBris/model-calibration-evaluation/tree/main/pipelines/sceua/run.py)
 * [Sequential Neural Posterior Estimation](https://github.com/JBris/model-calibration-evaluation/tree/main/pipelines/snpe/run.py)
 * [Sobol Sensitivity Analysis](https://github.com/JBris/model-calibration-evaluation/tree/main/pipelines/sobol_sa/run.py)
-  
+* [Truncated Marginal Neural Ratio Estimation](https://github.com/JBris/model-calibration-evaluation/tree/main/pipelines/tmnre/run.py)
