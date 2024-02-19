@@ -1,6 +1,7 @@
 # model-calibration-evaluation
 
 [![pages-build-deployment](https://github.com/JBris/model-calibration-evaluation/actions/workflows/pages/pages-build-deployment/badge.svg?branch=main)](https://github.com/JBris/model-calibration-evaluation/actions/workflows/pages/pages-build-deployment)
+[![CodeQL](https://github.com/JBris/model-calibration-evaluation/actions/workflows/github-code-scanning/codeql/badge.svg?branch=main)](https://github.com/JBris/model-calibration-evaluation/actions/workflows/github-code-scanning/codeql)
 
 Evaluating model calibration methods for sensitivity analysis, uncertainty analysis, optimisation, and Bayesian inference 
 
