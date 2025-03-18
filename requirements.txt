@@ -50,6 +50,7 @@ gpytorch==1.10
 greenlet==2.0.2
 grpcio==1.56.0
 gstools==1.5.0
+evotorch==0.5.1
 h5netcdf==1.2.0
 h5py==3.9.0
 hankel==1.2.1

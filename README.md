@@ -15,6 +15,7 @@ The following model calibration methods have been evaluated.
 * [Differential Evolution Adaptive Metropolis](https://github.com/JBris/model-calibration-evaluation/tree/main/pipelines/dream/run.py)
 * [Experimental Design via Gaussian Process Emulation](https://github.com/JBris/model-calibration-evaluation/tree/main/pipelines/experimental_design/run.py)
 * [Flow Matching Posterior Estimation](https://github.com/JBris/model-calibration-evaluation/tree/main/pipelines/fmpe/run.py)
+* [Genetic Algorithm](https://github.com/JBris/model-calibration-evaluation/tree/main/pipelines/evotorch/run.py)
 * [Tree-structured Parzen Estimator](https://github.com/JBris/model-calibration-evaluation/tree/main/pipelines/optimisation/run.py)
 * [Polynomial Chaos Expansion](https://github.com/JBris/model-calibration-evaluation/tree/main/pipelines/poly_chaos/run.py)
 * [Polynomial Chaos Kriging](https://github.com/JBris/model-calibration-evaluation/tree/main/pipelines/poly_chaos_kriging/run.py)
