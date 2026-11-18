@@ -97,7 +97,7 @@ These targets begin when the issue is opened. If we cannot meet a target, we wil
 ## Ownership and maintenance
 <!-- Identify the team, role, or maintainer responsible for accessibility and describe their responsibilities to the project. Include the review cadence and how ownership transfers when responsibilities change. -->
 
-Accessibility is owned by **[maintainer name or role]**.
+Accessibility is owned by **JBris**.
 
 ### Responsibilities
 
